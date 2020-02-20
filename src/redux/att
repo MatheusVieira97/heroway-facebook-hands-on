@@ -1,0 +1,35 @@
+postID no parametro função, comment
+method: post dentro do await fetch do try
+dados dentro do body para salvar
+transformar em json para mandar para o backend
+-json.stringify()
+
+criar estado no store "sendComment"
+
+chamar a função no sendCommentForm ao clicar enter
+-sendComment('', event.targer.value)
+
+criar id pro post
+-criar interface
+
+abaixo do return antes do try
+action pra disparar o sendComment
+dispatch()
+
+header: {
+  accept: oq eu eu aceito que retorne",
+  content-type": "aplication/json}
+avatar_url
+login
+regarregar as info
+
+
+/aparecer sem att
+export send comment pra usar no post
+incluir no case pra retornar o state
+
+
+
+
+dribble.com
+behance.com
